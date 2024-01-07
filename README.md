@@ -31,4 +31,4 @@ The project uses the FER library to detect emotions in images, presenting the de
 
 This project welcomes feedback, corrections, and collaborations to improve and expand its impact.
 
-For detailed instructions, please refer to the comments within the code in the Google Collab Notebook.
+For detailed instructions, please refer to the comments within the code in the Jupyter Notebook.
