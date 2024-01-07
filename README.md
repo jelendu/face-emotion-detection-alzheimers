@@ -12,11 +12,11 @@ Ensure you have Python installed, then set up your environment with the required
 	•	EfficientNet PyTorch: An efficient model for deep learning.
 	•	TorchSampler: For imbalanced dataset handling.
 
-Install them using:
+### Install them using:
 
 pip install torch torchvision efficientnet_pytorch torchsampler
 
-For emotion detection:
+### For emotion detection:
 
 pip install fer
 pip install ffmpeg moviepy
